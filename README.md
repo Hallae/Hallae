@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning/improving C#,Asp.net core,HTML,CSS,JavaScript 
 - 💞️ I’m looking to collaborate on any interesting projects.
 - 📫 How to reach me : telegram: @nenggcrozby
+- Gitlab:https://gitlab.com/users/Hallae/projects
    
 
 
