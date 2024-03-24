@@ -1,13 +1,3 @@
-- 👋 Hi, I’m keifer
-- 👀 I’m interested in learning as much as i can
-- 🌱 I’m currently learning/improving C#,Asp.net core,HTML,CSS,JavaScript 
-- 💞️ I’m looking to collaborate on any interesting projects.
-- 📫 How to reach me : telegram: @nenggcrozby
-- Gitlab:https://gitlab.com/users/Hallae/projects
-   
+Hello! I'm Keifer, an enthusiastic learner and developer with a keen interest in expanding my knowledge and skills in C#, ASP.NET Core, HTML, CSS, and JavaScript. I'm always on the lookout for interesting projects to collaborate on, and I'm excited about the potential to contribute and learn from these experiences.
 
-
-<!---
-Hallae/Hallae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Feel free to reach out to me via Telegram at @nenggcrozby or check out my projects on GitLab at https://gitlab.com/users/Hallae/projects. I'm eager to connect and discuss potential collaborations or opportunities to grow together in the tech community.
